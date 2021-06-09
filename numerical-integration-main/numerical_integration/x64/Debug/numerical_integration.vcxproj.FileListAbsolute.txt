@@ -1,0 +1,4 @@
+C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\numerical_integration\x64\Debug\numerical_integration.vcxprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\numerical_integration\x64\Debug\numericalintegration.MyForm.resources
+C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\numerical_integration\x64\Debug\numerical_integration.vcxproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\numerical_integration\x64\Debug\numerical_integration.vcxproj.CopyComplete

@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\numerical_integration\MyForm.h(571): warning C4715: numericalintegration::MyForm::func: значение возвращается не при всех путях выполнения
+C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\numerical_integration\MyForm.h(586): warning C4715: numericalintegration::MyForm::true_value: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  numerical_integration.vcxproj -> C:\Users\Никита\Desktop\Лаба 3 ЧМ 2021\numerical-integration-main\x64\Debug\numerical_integration.exe

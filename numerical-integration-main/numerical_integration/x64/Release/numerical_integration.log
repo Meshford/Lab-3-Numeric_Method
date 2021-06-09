@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Никита\Desktop\Лаба_3_ЧМ_2021\numerical-integration-main\numerical_integration\MyForm.h(577): warning C4715: numericalintegration::MyForm::func: значение возвращается не при всех путях выполнения
+C:\Users\Никита\Desktop\Лаба_3_ЧМ_2021\numerical-integration-main\numerical_integration\MyForm.h(591): warning C4715: numericalintegration::MyForm::true_value: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  numerical_integration.vcxproj -> C:\Users\Никита\Desktop\Лаба_3_ЧМ_2021\numerical-integration-main\x64\Release\numerical_integration.exe
